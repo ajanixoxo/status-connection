@@ -1,0 +1,25 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .status-cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+  }
+  
+  #myImg {
+    width: 150px;
+  }
+  
+  #status {
+    font-size: 24px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
